@@ -1,4 +1,4 @@
-### Samantha's the name. Had to set this up for college.
+### My name is Samantha. I'm a current computer science student. That's all I really have to say.
 
 <!--
 **samchio/samchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
