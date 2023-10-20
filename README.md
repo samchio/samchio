@@ -1,4 +1,5 @@
-### My name is Samantha. I'm a computer science student currently working on getting my degree! Right now, I'm learning how to design and manage larger software projects.
+### Hello!
+My name is Samantha. I'm a computer science student currently working on getting my degree! Right now, I'm learning how to design and manage larger software projects.
 Fun fact: Outside of computer science and video games, I really love theatre!
 
 <!--
