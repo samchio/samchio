@@ -1,4 +1,5 @@
-### My name is Samantha. I'm a current computer science student. That's all I really have to say.
+### My name is Samantha. I'm a computer science student currently working on getting my degree! Right now, I'm learning how to design and manage larger software projects.
+Fun fact: Outside of computer science and video games, I really love theatre!
 
 <!--
 **samchio/samchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
