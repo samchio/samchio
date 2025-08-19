@@ -1,5 +1,5 @@
 ### Hello!
-My name is Samantha. I'm a computer science student currently working on getting my degree! Right now, I'm learning how to design and manage larger software projects.
+My name is Samantha. I'm a computer science grad. I don't know what else to put here lol
 
 <!--
 **samchio/samchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
