@@ -1,5 +1,5 @@
 ### Hello!
-My name is Samantha. I'm a computer science grad. I don't know what else to put here lol
+My name is Sam. I'm a computer science grad. I don't know what else to put here lol
 
 <!--
 **samchio/samchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
